@@ -25,6 +25,14 @@ header{
   padding-top: 2em;
 }
 
+.designer{
+  font-weight: bolder;
+}
+
+.front{
+  color: rgb(196, 137, 147)
+}
+
 
 nav{
     margin:4em;
