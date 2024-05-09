@@ -510,6 +510,8 @@ justify-content: space-between;
     }
   }
 
+
+
   @media only screen and (max-width: 440px) { */
     /* For mobile phones: */
       /* .reveal-type {
@@ -519,7 +521,11 @@ justify-content: space-between;
     }
   } */
 
-
+@media (max-width: 406px) {
+body{
+width: 100%;
+}
+}
 
 .picture{
     border-radius: 10em;
